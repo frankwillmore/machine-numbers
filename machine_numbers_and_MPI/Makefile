@@ -11,4 +11,4 @@ central_limit: central_limit.c
 all: add_float reduce central_limit
 
 clean: 
-	rm a.out add_float reduce central_limit
+	rm -f a.out add_float reduce central_limit
